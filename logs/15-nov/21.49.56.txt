@@ -1,0 +1,7 @@
+[21:49:49] init -> SDL initialized without errors
+[21:49:49] init -> Window created without errors
+[21:49:50] init -> Renderer created without errors
+[21:49:50] load_langfile -> Couldn't find lang_file 'en_US' in asset_pack 'main' aborting.
+[21:49:50] load_scene -> Loaded scene 'draw' successfully!
+[21:49:55] 896x slider -> Hellol
+[21:49:56] stop -> Game cleaned

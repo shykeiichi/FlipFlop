@@ -1,0 +1,15 @@
+[18:25:58] init -> SDL initialized without errors
+[18:25:58] init -> Window created without errors
+[18:25:58] init -> Renderer created without errors
+[18:25:58] load_langfile -> Couldn't find lang_file 'en_US' in asset_pack 'main' aborting.
+[18:25:58] load_scene -> Loaded scene 'draw' successfully!
+[18:25:58][Error] stop -> Index was out of range. Must be non-negative and less than the size of the collection. (Parameter 'index') In System.Collections.Generic.List`1.get_Item(Int32 index)
+Index was out of range. Must be non-negative and less than the size of the collection. (Parameter 'index')
+Stacktrace: at System.Collections.Generic.List`1.get_Item(Int32 index)
+at Game.Scenes.draw_scene.render() in E:\Projects\Coding\C#\Fjord_Projects\Animation\scenes\draw_scene.cs:line 50
+at Fjord.Modules.Game.scene_handler.render()
+at Fjord.game.render()
+at Fjord.game.run(scene start_scene)
+Source: System.Private.CoreLib
+Targetsite: Void ThrowArgumentOutOfRange_IndexException()
+[18:25:58] stop -> Game cleaned

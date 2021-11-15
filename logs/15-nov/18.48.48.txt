@@ -1,0 +1,366 @@
+[18:48:45] init -> SDL initialized without errors
+[18:48:45] init -> Window created without errors
+[18:48:45] init -> Renderer created without errors
+[18:48:45] load_langfile -> Couldn't find lang_file 'en_US' in asset_pack 'main' aborting.
+[18:48:45] load_scene -> Loaded scene 'draw' successfully!
+[18:48:45] update -> -175
+[18:48:45] 7x update -> -176
+[18:48:45] 32x update -> -177
+[18:48:45] 7x update -> -178
+[18:48:45] 4x update -> -179
+[18:48:45] 2x update -> -180
+[18:48:45] 2x update -> -181
+[18:48:45] 2x update -> -182
+[18:48:45] update -> -183
+[18:48:45] 2x update -> -184
+[18:48:45] 1x update -> -185
+[18:48:45] update -> -186
+[18:48:45] update -> -187
+[18:48:45] 2x update -> -188
+[18:48:45] 1x update -> -189
+[18:48:45] update -> -190
+[18:48:45] 2x update -> -191
+[18:48:45] update -> -192
+[18:48:45] update -> -193
+[18:48:45] 2x update -> -194
+[18:48:45] 1x update -> -195
+[18:48:45] 2x update -> -196
+[18:48:45] 2x update -> -197
+[18:48:45] 2x update -> -198
+[18:48:45] 1x update -> -199
+[18:48:45] 3x update -> -200
+[18:48:45] 3x update -> -201
+[18:48:45] 2x update -> -202
+[18:48:45] 5x update -> -203
+[18:48:46] 41x update -> -206
+[18:48:46] 4x update -> -207
+[18:48:46] 4x update -> -208
+[18:48:46] 3x update -> -209
+[18:48:46] 1x update -> -210
+[18:48:46] 2x update -> -211
+[18:48:46] 2x update -> -212
+[18:48:46] 1x update -> -213
+[18:48:46] 2x update -> -214
+[18:48:46] 1x update -> -215
+[18:48:46] 3x update -> -216
+[18:48:46] 2x update -> -217
+[18:48:46] 4x update -> -218
+[18:48:46] 5x update -> -219
+[18:48:46] 3x update -> -220
+[18:48:46] 4x update -> -221
+[18:48:46] 2x update -> -222
+[18:48:46] 2x update -> -223
+[18:48:46] 3x update -> -224
+[18:48:46] 1x update -> -225
+[18:48:46] 2x update -> -226
+[18:48:46] 2x update -> -227
+[18:48:46] 1x update -> -228
+[18:48:46] 2x update -> -229
+[18:48:46] 1x update -> -230
+[18:48:46] 3x update -> -231
+[18:48:46] 2x update -> -232
+[18:48:46] 3x update -> -233
+[18:48:46] 3x update -> -234
+[18:48:46] 4x update -> -235
+[18:48:46] 3x update -> -236
+[18:48:46] 4x update -> -237
+[18:48:46] 5x update -> -238
+[18:48:46] 5x update -> -239
+[18:48:46] 3x update -> -240
+[18:48:46] 4x update -> -241
+[18:48:46] 7x update -> -242
+[18:48:46] 17x update -> -243
+[18:48:46] 42x update -> -244
+[18:48:46] 8x update -> -245
+[18:48:46] 5x update -> -246
+[18:48:46] 2x update -> -247
+[18:48:46] 2x update -> -248
+[18:48:46] 3x update -> -249
+[18:48:46] 3x update -> -250
+[18:48:46] 2x update -> -251
+[18:48:46] 1x update -> -252
+[18:48:46] 2x update -> -253
+[18:48:46] 2x update -> -254
+[18:48:46] 2x update -> -255
+[18:48:46] 1x update -> -256
+[18:48:46] 3x update -> -257
+[18:48:46] 2x update -> -258
+[18:48:46] 2x update -> -259
+[18:48:46] 2x update -> -260
+[18:48:46] 3x update -> -261
+[18:48:46] 1x update -> -262
+[18:48:46] 4x update -> -263
+[18:48:46] 3x update -> -264
+[18:48:46] 3x update -> -265
+[18:48:46] 6x update -> -266
+[18:48:46] 24x update -> -267
+[18:48:46] 10x update -> -266
+[18:48:46] 4x update -> -265
+[18:48:46] 4x update -> -264
+[18:48:46] 4x update -> -263
+[18:48:46] 5x update -> -262
+[18:48:46] 13x update -> -261
+[18:48:47] 31x update -> -260
+[18:48:47] 3x update -> -259
+[18:48:47] 3x update -> -258
+[18:48:47] 3x update -> -257
+[18:48:47] 2x update -> -256
+[18:48:47] 2x update -> -255
+[18:48:47] 2x update -> -254
+[18:48:47] 1x update -> -253
+[18:48:47] 2x update -> -252
+[18:48:47] 2x update -> -251
+[18:48:47] 2x update -> -250
+[18:48:47] 1x update -> -249
+[18:48:47] 2x update -> -248
+[18:48:47] update -> -247
+[18:48:47] 1x update -> -246
+[18:48:47] 2x update -> -245
+[18:48:47] update -> -244
+[18:48:47] 2x update -> -243
+[18:48:47] update -> -242
+[18:48:47] 3x update -> -241
+[18:48:47] 1x update -> -239
+[18:48:47] 1x update -> -238
+[18:48:47] update -> -237
+[18:48:47] 2x update -> -236
+[18:48:47] update -> -235
+[18:48:47] 1x update -> -234
+[18:48:47] 1x update -> -233
+[18:48:47] 1x update -> -231
+[18:48:47] update -> -230
+[18:48:47] 1x update -> -229
+[18:48:47] 1x update -> -228
+[18:48:47] 1x update -> -227
+[18:48:47] update -> -226
+[18:48:47] update -> -225
+[18:48:47] 1x update -> -224
+[18:48:47] update -> -223
+[18:48:47] update -> -222
+[18:48:47] update -> -221
+[18:48:47] update -> -220
+[18:48:47] 1x update -> -219
+[18:48:47] update -> -218
+[18:48:47] update -> -217
+[18:48:47] 1x update -> -215
+[18:48:47] update -> -214
+[18:48:47] update -> -213
+[18:48:47] update -> -212
+[18:48:47] 1x update -> -211
+[18:48:47] update -> -210
+[18:48:47] 1x update -> -208
+[18:48:47] update -> -207
+[18:48:47] update -> -206
+[18:48:47] 1x update -> -204
+[18:48:47] 1x update -> -203
+[18:48:47] update -> -201
+[18:48:47] update -> -200
+[18:48:47] update -> -199
+[18:48:47] update -> -198
+[18:48:47] 1x update -> -197
+[18:48:47] 2x update -> -195
+[18:48:47] update -> -194
+[18:48:47] update -> -193
+[18:48:47] update -> -192
+[18:48:47] 1x update -> -191
+[18:48:47] 1x update -> -190
+[18:48:47] update -> -189
+[18:48:47] update -> -188
+[18:48:47] update -> -187
+[18:48:47] update -> -186
+[18:48:47] 1x update -> -185
+[18:48:47] 1x update -> -184
+[18:48:47] update -> -183
+[18:48:47] 2x update -> -182
+[18:48:47] 1x update -> -180
+[18:48:47] 1x update -> -179
+[18:48:47] 1x update -> -178
+[18:48:47] update -> -177
+[18:48:47] 1x update -> -176
+[18:48:47] 1x update -> -175
+[18:48:47] update -> -174
+[18:48:47] 1x update -> -173
+[18:48:47] 1x update -> -172
+[18:48:47] 1x update -> -171
+[18:48:47] 1x update -> -170
+[18:48:47] 1x update -> -169
+[18:48:47] 1x update -> -168
+[18:48:47] 2x update -> -167
+[18:48:47] 1x update -> -166
+[18:48:47] 2x update -> -165
+[18:48:47] 1x update -> -164
+[18:48:47] 2x update -> -163
+[18:48:47] 2x update -> -162
+[18:48:47] 2x update -> -161
+[18:48:47] 2x update -> -160
+[18:48:47] 3x update -> -159
+[18:48:47] 1x update -> -158
+[18:48:47] 2x update -> -157
+[18:48:47] 1x update -> -156
+[18:48:47] 2x update -> -155
+[18:48:47] 1x update -> -154
+[18:48:47] 2x update -> -153
+[18:48:47] 2x update -> -152
+[18:48:47] 1x update -> -151
+[18:48:47] 1x update -> -150
+[18:48:47] 4x update -> -149
+[18:48:47] 1x update -> -148
+[18:48:47] 3x update -> -147
+[18:48:47] 2x update -> -146
+[18:48:47] 2x update -> -145
+[18:48:47] 2x update -> -144
+[18:48:47] 2x update -> -143
+[18:48:47] 2x update -> -142
+[18:48:47] 1x update -> -141
+[18:48:47] 3x update -> -140
+[18:48:47] 1x update -> -139
+[18:48:47] 2x update -> -138
+[18:48:47] 2x update -> -137
+[18:48:47] 2x update -> -136
+[18:48:47] 1x update -> -135
+[18:48:47] 2x update -> -134
+[18:48:47] 1x update -> -133
+[18:48:47] 3x update -> -132
+[18:48:47] 1x update -> -131
+[18:48:47] 1x update -> -130
+[18:48:47] 2x update -> -129
+[18:48:47] 2x update -> -128
+[18:48:47] 1x update -> -127
+[18:48:47] 1x update -> -126
+[18:48:47] 2x update -> -125
+[18:48:47] 1x update -> -124
+[18:48:47] 1x update -> -123
+[18:48:47] 2x update -> -122
+[18:48:47] 1x update -> -121
+[18:48:47] 1x update -> -120
+[18:48:47] 1x update -> -119
+[18:48:47] 2x update -> -118
+[18:48:47] update -> -117
+[18:48:47] 1x update -> -116
+[18:48:47] 2x update -> -115
+[18:48:47] 1x update -> -114
+[18:48:47] 2x update -> -113
+[18:48:47] 2x update -> -112
+[18:48:47] 1x update -> -111
+[18:48:47] 2x update -> -110
+[18:48:47] 2x update -> -109
+[18:48:47] 2x update -> -108
+[18:48:47] 1x update -> -107
+[18:48:47] 1x update -> -106
+[18:48:47] 3x update -> -105
+[18:48:47] 1x update -> -104
+[18:48:47] 1x update -> -103
+[18:48:47] 2x update -> -102
+[18:48:47] 2x update -> -101
+[18:48:47] 1x update -> -100
+[18:48:47] 2x update -> -99
+[18:48:47] 2x update -> -98
+[18:48:47] 1x update -> -97
+[18:48:47] 3x update -> -96
+[18:48:47] 1x update -> -95
+[18:48:47] 2x update -> -94
+[18:48:47] 3x update -> -93
+[18:48:47] 3x update -> -92
+[18:48:47] 2x update -> -91
+[18:48:47] 2x update -> -90
+[18:48:47] 3x update -> -89
+[18:48:48] 2x update -> -88
+[18:48:48] 1x update -> -87
+[18:48:48] 3x update -> -86
+[18:48:48] 1x update -> -85
+[18:48:48] 2x update -> -84
+[18:48:48] 3x update -> -83
+[18:48:48] update -> -82
+[18:48:48] 2x update -> -81
+[18:48:48] 4x update -> -80
+[18:48:48] 1x update -> -79
+[18:48:48] 1x update -> -78
+[18:48:48] 3x update -> -77
+[18:48:48] 2x update -> -76
+[18:48:48] 2x update -> -75
+[18:48:48] 1x update -> -74
+[18:48:48] 3x update -> -73
+[18:48:48] 1x update -> -72
+[18:48:48] 3x update -> -71
+[18:48:48] update -> -70
+[18:48:48] 3x update -> -69
+[18:48:48] 1x update -> -68
+[18:48:48] 2x update -> -67
+[18:48:48] 2x update -> -66
+[18:48:48] 2x update -> -65
+[18:48:48] 1x update -> -64
+[18:48:48] 3x update -> -63
+[18:48:48] 3x update -> -62
+[18:48:48] 1x update -> -61
+[18:48:48] 2x update -> -60
+[18:48:48] 2x update -> -59
+[18:48:48] 1x update -> -58
+[18:48:48] 1x update -> -57
+[18:48:48] 2x update -> -56
+[18:48:48] 2x update -> -55
+[18:48:48] update -> -54
+[18:48:48] 1x update -> -53
+[18:48:48] 1x update -> -52
+[18:48:48] 2x update -> -51
+[18:48:48] 1x update -> -50
+[18:48:48] 1x update -> -49
+[18:48:48] 1x update -> -48
+[18:48:48] 1x update -> -47
+[18:48:48] 1x update -> -46
+[18:48:48] 1x update -> -45
+[18:48:48] 1x update -> -44
+[18:48:48] update -> -43
+[18:48:48] 1x update -> -42
+[18:48:48] 2x update -> -41
+[18:48:48] update -> -40
+[18:48:48] 1x update -> -39
+[18:48:48] update -> -38
+[18:48:48] 1x update -> -37
+[18:48:48] 1x update -> -36
+[18:48:48] update -> -35
+[18:48:48] update -> -34
+[18:48:48] update -> -33
+[18:48:48] 2x update -> -32
+[18:48:48] update -> -31
+[18:48:48] update -> -30
+[18:48:48] update -> -29
+[18:48:48] 1x update -> -28
+[18:48:48] 1x update -> -27
+[18:48:48] 1x update -> -26
+[18:48:48] update -> -25
+[18:48:48] 1x update -> -24
+[18:48:48] 1x update -> -23
+[18:48:48] update -> -22
+[18:48:48] update -> -21
+[18:48:48] update -> -20
+[18:48:48] 1x update -> -19
+[18:48:48] update -> -18
+[18:48:48] 1x update -> -17
+[18:48:48] 1x update -> -16
+[18:48:48] update -> -15
+[18:48:48] update -> -14
+[18:48:48] 1x update -> -13
+[18:48:48] 1x update -> -12
+[18:48:48] 1x update -> -11
+[18:48:48] 1x update -> -10
+[18:48:48] 1x update -> -9
+[18:48:48] 1x update -> -8
+[18:48:48] update -> -7
+[18:48:48] 2x update -> -6
+[18:48:48] 1x update -> -5
+[18:48:48] update -> -4
+[18:48:48] 2x update -> -3
+[18:48:48] 2x update -> -2
+[18:48:48] update -> -1
+[18:48:48] 1x update -> 0
+[18:48:48] update -> 1
+[18:48:48][Error] stop -> Index was out of range. Must be non-negative and less than the size of the collection. (Parameter 'index') In System.Collections.Generic.List`1.get_Item(Int32 index)
+Index was out of range. Must be non-negative and less than the size of the collection. (Parameter 'index')
+Stacktrace: at System.Collections.Generic.List`1.get_Item(Int32 index)
+at Game.Scenes.draw_scene.update() in E:\Projects\Coding\C#\Fjord_Projects\Animation\scenes\draw_scene.cs:line 45
+at Fjord.Modules.Game.scene_handler.update()
+at Fjord.game.update()
+at Fjord.game.run(scene start_scene)
+Source: System.Private.CoreLib
+Targetsite: Void ThrowArgumentOutOfRange_IndexException()
+[18:48:48] stop -> Game cleaned
