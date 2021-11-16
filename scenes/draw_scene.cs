@@ -24,6 +24,7 @@ namespace Game.Scenes {
         bool color_view = false;
 
         IntPtr triangle = texture_handler.load_texture("triangle.png");
+        IntPtr icon_palette = texture_handler.load_texture("palette.png");
 
         int color_r = 0;
         int color_g = 0;
@@ -57,6 +58,8 @@ namespace Game.Scenes {
 
         public override void update()
         {
+            game.tick_fps(60);
+
             color_r = Math.Clamp(color_r, 0, 255);
             color_g = Math.Clamp(color_g, 0, 255);
             color_b = Math.Clamp(color_b, 0, 255);
@@ -96,6 +99,12 @@ namespace Game.Scenes {
                 if(draw_size < 1)
                     draw_size = 1;
             }
+
+            switch(input.get_any_key_just_pressed()) {
+                case input.key_escape:
+                    game.stop();
+                    break;
+            }
         }
 
         // Render method
@@ -125,7 +134,8 @@ namespace Game.Scenes {
 
             gui.button(new SDL_Rect(10, 122, 80, 32), ref erase, "default", "erase", off_color, on_color, text_color);
 
-            gui.button(new SDL_Rect(1800, 80, 32, 32), ref color_view, "default", "C", off_color, on_color, text_color);
+            gui.button(new SDL_Rect(1800, 80, 32, 32), ref color_view, "default", "", off_color, on_color, text_color);
+            draw.texture_ext(icon_palette, 1802, 82, 0, 0.0527, 0.0527);
 
             if(color_view) {
                 draw.round_rect(new SDL_Rect(1632, 157, 300, 300), 40, 40, 40, 50, 10, true);
